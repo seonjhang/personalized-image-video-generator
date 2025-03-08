@@ -24,6 +24,10 @@ To run this project, you need the following dependencies:
 
 ### Install Dependencies
 
+## Pipeline
+<img width="947" alt="image" src="https://github.com/user-attachments/assets/1234efd9-fcfb-432b-9797-96fe91a3bf3e" />
+
+
 ## Note
 1. The embedding uses glove library that can be downloaded from https://github.com/stanfordnlp/GloVe/tree/master/src
 
